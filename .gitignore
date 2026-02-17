@@ -8,6 +8,8 @@ frontend/node_modules/
 backend/.env
 frontend/.env
 frontend/.env.local
+.history/
+
 
 # Build folders (for frontend like React/Vite)
 dist/
